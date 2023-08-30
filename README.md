@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Professional in systems engineering.
-- 💼 &nbsp; Currently working as FrontEnd developer in [ArteRevelo](https://arterevelo.com)
+- 💼 &nbsp; Previously worked as FrontEnd developer junior in [MAT](https://gomat.co/)
 - 🌱 &nbsp; Developing React apps and acquiring proficiency with TypeScript.
 - ✍️ &nbsp; Pursuing 3D Modeling and Video editing as hobbies/side hustles.
 
